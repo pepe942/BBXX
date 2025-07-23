@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bot-spa-corpomodel-cumbres",
+  "private_key_id": "107cacb12097893c0ea0010d3226c68dc09da9f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC5UeWdfx1XnZ/Q\nEtlFwgW46XBy7eGTmz8deobWNtujht+IUvbhVagNPI0lmJK7VUptBmh315Pftifx\nSAZb/D6CajWflCudLTyUvJS6qFwIIAqNsnDWCHo2y9FbyAg1CTTAo2gUR1rnEsF6\ncRTV7wfnCLrrUpJDv/aM8JCldmPdxP/JOn8cDMVog7OlQF6h580gR4RZ1ZeD+d4Y\nYJPO3Y1ZSdySudGWQuU42vP4XsQ/AY88+zKqgFrhzmTGXurQ+N0mbbPaWKOgtXCx\nrB+pi/yT9LazyZuy8Mzg22pRNOwNhC+ySs2gIVLd9QSWMccdXlxYe/VrESm6R6Hu\njgOnBzCjAgMBAAECggEADrPkKzgsDEj5pmjwavvnN1Hx9XRRCsRs3/paG0Gz8Efh\nkS+/3YXNtOsiaaKutYUhSAATprpoRX3uslJcCs066l7hzTzUrv4pScWiaSK1VoGw\nRKitEhYPGCzYedcna4nE8SmltsIogJ+40O2K0SRLNLW5GrVs3EotFeZ6G16Gss/s\n/H1rxJbV+9d/Etk0KTb+9vDGdqF1D9frn6mvpK3uc3eoGbCOqM5dIQic0MnDaj5r\n5sPnIIOX8cYYkoNvSOq6cmgD5KzQ2iziwjz7ORFcedhCrQRVLUhzfGXt71e5IFHX\neSGdSTB4KdeK5NvxVPeMv1eFd2PBjPSheuVnxwCgTQKBgQD4gQtiToCJMYqQ6l7k\n3svxpHQqWC7UuG4I7AJDRnsisIzIAMzVEwS3jR04KpqXMvMqPDg056IY0Q0xwFll\nJ0jc5WjOQw2biFf5e2ADQ1gNfFZWWsS8U4lG/wrLBAqF5udyTHvh/KRjiw8KQ+sc\nCw0ypxhg3SRMY5vD2LlMIkNvLQKBgQC+6PFI3kIVPHB2SlCTOI1pA6ePs9BhS0OU\nyzYl4HaMKztkBOIDqJY9Qkqakx95I+TuXF+833aR9OKpk8UuZnStzXDOapOzrmxW\nicn1c5c9ZCTDfo+I6NB61g1Dlj95LaFBTQncBBmiVCsXxOE1hrcxYQX+N9nDoJCe\nbCV6qwaBDwKBgQCKYOGD9o7g1rOAiuIYtHAAuUDuq3g4gBLV6QZBjCfZY1KhtMBb\nDmIcC/pvYln/RCHgLPRnkWzUQOUGBURCbaPHTgAUi4YyS7QherA2YPPRXqF9KMJQ\n1HunCzJpZnCtq6zKGwkJCHRJ8g+H+dYcIZNR13ZdygcCep0sa6yTVqkSaQKBgQCT\ntQNKT7xtVc/lleX1oiG3CH7Sblthi6wEKZ4BfEP8e05+OlDsZ7mmN+4k3oPRZHYx\n/gKMzZCdqQzeC1jaZ6cK+hK3gjo5IVDtO7qoUADKHPtczkUbtpXnFEo66rq9dRJ4\nxbRFKF70+45D264rjcmbSOgsIuY3t7ls+VueJ0jm/QKBgQDNTvQPvTt3RE71pmdH\n5TgftZZP/r6GKsRB15UcnvpiM6B6+a7UGw73UUgAYbLK4Ii82Ydoi3p1Wnly1nyl\nb6nsK9UO06YwEFWg++UVlEffrIYeHVXa3fKnAH3/Op9F7kQ0dJzBO+lesAX7NvTy\nDy3McKZNIX9kEGSIGxinHh9DtQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-calendar@bot-spa-corpomodel-cumbres.iam.gserviceaccount.com",
+  "client_id": "110013088196951383053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-calendar%40bot-spa-corpomodel-cumbres.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
